@@ -1,0 +1,51 @@
+.heading 
+{
+    margin: 0px;
+    width: 100%;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px grey;
+    font-weight: bold;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: greenyellow;
+    line-height: 3;
+    font-size: 25px;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+    margin-top: 150px;
+}
